@@ -11,7 +11,7 @@ Code used in Someck et al., 2023, Positive and biphasic extracellular waveforms 
   - structure contains 137 units, for each:
      mean     mean waveform, matrix of n_samples x n_channels
      sd       SD of waveform, matrix of n_samples x n_channels
-- full_dataset
+- full_dataset.mat
   - The full dataset used in Someck et al., 2023.
   - structure contains 9160 units, for each:
      mean     mean waveform, matrix of n_samples x n_channels
