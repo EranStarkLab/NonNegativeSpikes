@@ -12,7 +12,7 @@ Code used in Someck et al., 2023, Positive and biphasic extracellular waveforms 
     - nspk:     number of spikes
     - mean:     mean waveform, matrix of n_samples x n_channels
     - sd:       SD of waveform, matrix of n_samples x n_channels
-- full_dataset.mat
+- s_full_dataset.mat
   - The full dataset used in Someck et al., 2023.
   - Structure contains 9160 units, for each:
      - filename: session identifier
