@@ -3,7 +3,7 @@ Code used in Someck et al., 2023, Positive and biphasic extracellular waveforms 
 
 ### Analysis
 - waveform_categorization.m
-  - classification of waveforms and units.
+  - Categorization of waveform and unit classification.
  
 ### Data
 - s_exampledata_mDS2_07.mat
@@ -21,6 +21,7 @@ Code used in Someck et al., 2023, Positive and biphasic extracellular waveforms 
      - mean:     mean waveform, matrix of n_samples x n_channels
      - sd:       SD of waveform, matrix of n_samples x n_channels
      - region:   neocortex/CA1 0/1
+  - Data available at https://doi.org/10.5281/zenodo.8286842
    
  ## To run the code
 - Download code and data.
